@@ -3,6 +3,7 @@
 Objectius:
   - Realitzar mineria de texts.
   - Interpretació dels textos.
+  - Anàlisis dels resultats
 
 Exercicis:
 
